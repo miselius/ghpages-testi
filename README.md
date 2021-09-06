@@ -1,3 +1,15 @@
+# Tuulituhohaukka
+
+Tämä projekti sisältää Tuulituhohaukka-projektissa tuotetun stac-katalogin muodostusprosessin ja selainsovelluksen tuulituhojen selailemiseen
+
+## Stac-katalogi
+
+Koodi löytyy omasta projektista (github.com/spatineo/tuulituhohaukka-catalog)
+
+## Selainsovellus
+
+Koodi löytyy kansiosta `app/`
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/miselius/ghpages-testi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
